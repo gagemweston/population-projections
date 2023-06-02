@@ -8,6 +8,8 @@ This program uses python to run the cohort component method to project populatio
 
 This program was last updated May 2023. It was primarily written by Gage Weston, a researcher at Population Wellbeing Initiative at University of Texas at Austin as of May 2023, with help from Sangita Vyas at CUNY Hunter College. You may contact Gage at gageweston@utexas.edu for issues or questions about the code or contact Kevin Kuruc at kevinkuruc@utexas.edu to learn about PWI.
 
+See [this YouTube tutorial](https://youtu.be/_lf5rqdI7hs) on how to use the program.
+
 ### This repository contains:
 
 1. **input.csv**: demographic projections from UN WPP zero-migration variant (2022 version) for years 2025-2100, re-formatted for our program. To re-create this file, complete the steps at the top of "background code" in population_projections.ipynb.
