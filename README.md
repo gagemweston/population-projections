@@ -10,8 +10,8 @@ This program was last updated May 2023. It was primarily written by Gage Weston,
 
 ### This repository contains:
 
-1. **WPP_input_data.csv**: demographic projections from UN WPP zero-migration variant (2022 version) for years 2025-2100, re-formatted for our program. To re-create this file, complete the steps at the top of "background code" in population_projections.ipynb.
-2. **population_projections.ipynb**: A jupyter notebook containing the python code to run the projections alongside instructions for how to use this program and meta-data describing the input/output files
+1. **input.csv**: demographic projections from UN WPP zero-migration variant (2022 version) for years 2025-2100, re-formatted for our program. To re-create this file, complete the steps at the top of "background code" in population_projections.ipynb.
+2. **pop_projections.ipynb**: A jupyter notebook containing the python code to run the projections alongside instructions for how to use this program and meta-data describing the input/output files
 
 ### About PWI
 
